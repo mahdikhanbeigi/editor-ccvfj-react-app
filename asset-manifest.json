@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/editor-ccvfj-react-app/static/css/main.f108cc9d.css",
+    "main.js": "/editor-ccvfj-react-app/static/js/main.2957b7fa.js",
+    "static/js/787.eb67e064.chunk.js": "/editor-ccvfj-react-app/static/js/787.eb67e064.chunk.js",
+    "index.html": "/editor-ccvfj-react-app/index.html",
+    "main.f108cc9d.css.map": "/editor-ccvfj-react-app/static/css/main.f108cc9d.css.map",
+    "main.2957b7fa.js.map": "/editor-ccvfj-react-app/static/js/main.2957b7fa.js.map",
+    "787.eb67e064.chunk.js.map": "/editor-ccvfj-react-app/static/js/787.eb67e064.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f108cc9d.css",
+    "static/js/main.2957b7fa.js"
+  ]
+}
